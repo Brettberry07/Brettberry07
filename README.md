@@ -1,6 +1,6 @@
 # Hey, I'm @Brettberry07 👋
 
-**SWE Intern - Potential Energy Tech** 
+**SWE Intern - Potential Energy Tech**  
 **SWE Intern - Tariff Ninja**
 
 ### About Me  
