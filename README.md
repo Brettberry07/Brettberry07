@@ -1,6 +1,7 @@
 # Hey, I'm @Brettberry07 👋
 
 **SWE Intern - Potential Energy Tech** 
+**SWE Intern - Tariff Ninja**
 
 ### About Me  
 - I do some hardware sometimes with 3d printing and microcontrollers
