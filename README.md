@@ -1,10 +1,8 @@
 # Hey, I'm @Brettberry07 👋
- 
-**SWE Intern - Tariff Ninja**
 
 ### About Me  
 - I do some hardware sometimes with 3d printing and microcontrollers
-- Can always find me building a frontend somewhere
+- Can always find me building a something somewhere
 - Open to collaborate on anything
 
 ### Things I code with
