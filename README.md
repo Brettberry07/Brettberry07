@@ -26,20 +26,10 @@
   </a>
 </div>
 
-<!-- Height-matched version-->
-<!-- <div align="center">
-  <a href="https://github.com/diamondjdev">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diamondjdev&theme=github_dark"
-      height="180"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diamondjdev&theme=github_dark"
-      height="180"
-    />
-  </a>
-</div> -->
-
 
 ---
+### Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-475569?style=for-the-badge&logo=vercel&logoColor=white)](https://brettberry.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brett-berry-a81b29329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brettlight.dev@gmail.com)
